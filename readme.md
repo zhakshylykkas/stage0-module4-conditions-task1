@@ -37,7 +37,7 @@ code snippet:
 
 
 #### 4) Integer comparison.
-Fill the gaps in the code snippet so as the program compiles and prints: "Hello, World!"
+Fill the gaps in the code snippet so that the program compiles and prints: "Hello, World!"
 
 
         public class IntegerComparison {

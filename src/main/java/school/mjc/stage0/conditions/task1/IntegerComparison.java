@@ -4,7 +4,7 @@ public class IntegerComparison {
     public static void main(String[] args) {
         int x = 50;
         int y = 50;
-        _ (x _ y) {
+        __ (x __ y) {
             System.out.println("Hello, World!");
         }
     }
